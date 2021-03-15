@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @aalnunes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Alisson Lima
+- 26 anos, Natural de Belo Horizonte
+- Graduado em Gestão Financeira
+- Estudo Python com enfase em Ciencia de Dados
+- 📫 alnunes@outlook.com.br / @_aalnunes
 
-<!---
-aalnunes/aalnunes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
